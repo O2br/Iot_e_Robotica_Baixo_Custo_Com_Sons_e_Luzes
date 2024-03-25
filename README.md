@@ -13,10 +13,10 @@ Abaixo a minha propostas de atividades conjunta na Bancada do Calango, e lembran
 	- Osciloscopio, Trabalhar conceito e pratica de SoundsGPIO Analogico.	
  	- Controlar um Motor com PWM, Trabalhar conceito e pratica de sinal de onda quadrada.
 	- Controle Remoto Transmissor e Receptor de IR, Trabalhando decodificação de audio para sinais Digitais.
-	- Receptor de Radio, Mais um pratica de decodificação de audio para sinais Digitais.
+	- Receptor de Radio, mais um pratica de decodificação de audio para sinais Digitais.
  - Light Pins 
 	- Relé Programavel, Trabalhando conceitos e pratica de LightGPIO Digital 
-	- Controlar um Motor 1, Mais uma pratica de SoundsGPIO Digital controlando um ponte-h.
+	- Controlar um Motor 1, Mais uma pratica de LightGPIO Digital controlando um ponte-h.
 	- Comunicação,  Trabalhando conceitos e pratica de comunicação com LightSPI e LightI2C 
  - Reciclagem e Reaproveitamento (Robótica/Iot e infra-estrutura)
 	- BoxTV e SticksTV no EDGE computer como Servicos, Servidores e Clusters.
