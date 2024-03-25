@@ -20,7 +20,7 @@ Abaixo a minha propostas de atividades conjunta na Bancada do Calango, e lembran
 	- Relé Programavel, Trabalhando conceitos e pratica de LightGPIO Digital 
 	- Controlar um Motor 1, Mais uma pratica de LightGPIO Digital controlando um ponte-h.
 	- Comunicação,  Trabalhando conceitos e pratica de comunicação com LightSPI e LightI2C
- 		-Base de Referência:https://hackaday.io/project/184720-web-smart-phone-screen-blink-bot/details
+ 		- Base de Referência:https://hackaday.io/project/184720-web-smart-phone-screen-blink-bot/details
    
  - Reciclagem e Reaproveitamento (Robótica/Iot e infra-estrutura)
 	- BoxTV e SticksTV no EDGE computer como Servicos, Servidores e Clusters.
