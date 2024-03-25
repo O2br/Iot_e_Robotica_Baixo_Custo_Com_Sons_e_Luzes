@@ -1,4 +1,4 @@
-# Bora Fazer Juntos
+# Bora fazer juntos
 
 Meu ponta pé inicial será na Campus Party Brasilia 6.
 Vou iniciar minha jornada de validação do Iot e Robotica de Baixo Custo com Sons e Luzes, e a primeira ação vai ser aproveitar o meu momento de laser e diversão para interagir com pessoas interesadas em aprender e contribuir com a ideia.
