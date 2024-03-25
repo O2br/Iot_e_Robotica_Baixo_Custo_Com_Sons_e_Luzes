@@ -11,7 +11,7 @@ Abaixo a minha propostas de atividades conjunta na Bancada do Calango, e lembran
 	- Ligar Leds, Trabalhando conceitos e pratica de SoundsGPIO Digital.
 	- Controlar um Motor GPIO Digital, Mais um pratica de SoundsGPIO Digital controlando uma ponte-h/transistor.	
 	- Osciloscopio, Trabalhar conceito e pratica de SoundsGPIO Analogico.
- 		- https://www.clubedohardware.com.br/forums/topic/1164637-oscilosc%C3%B3pio-caseiro/ 		
+ 		- Base de referência: https://www.clubedohardware.com.br/forums/topic/1164637-oscilosc%C3%B3pio-caseiro/ 		
  	- Controlar um Motor com PWM, Trabalhar conceito e pratica de sinal de onda quadrada.
   		- Base de referência: https://makerfaire.com/maker/entry/55209/  
 	- Controle Remoto Transmissor e Receptor de IR, Trabalhando decodificação de audio para sinais Digitais.
