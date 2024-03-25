@@ -12,12 +12,14 @@ Abaixo a minha propostas de atividades conjunta na Bancada do Calango, e lembran
 	- Controlar um Motor GPIO Digital, Mais um pratica de SoundsGPIO Digital controlando uma ponte-h/transistor.	
 	- Osciloscopio, Trabalhar conceito e pratica de SoundsGPIO Analogico.	
  	- Controlar um Motor com PWM, Trabalhar conceito e pratica de sinal de onda quadrada.
+  		- Base de referência: https://makerfaire.com/maker/entry/55209/  
 	- Controle Remoto Transmissor e Receptor de IR, Trabalhando decodificação de audio para sinais Digitais.
 	- Receptor de Radio, mais um pratica de decodificação de audio para sinais Digitais.
  - Light Pins 
 	- Relé Programavel, Trabalhando conceitos e pratica de LightGPIO Digital 
 	- Controlar um Motor 1, Mais uma pratica de LightGPIO Digital controlando um ponte-h.
-	- Comunicação,  Trabalhando conceitos e pratica de comunicação com LightSPI e LightI2C 
+	- Comunicação,  Trabalhando conceitos e pratica de comunicação com LightSPI e LightI2C
+ 		-Base de Referência:https://hackaday.io/project/184720-web-smart-phone-screen-blink-bot/details 
  - Reciclagem e Reaproveitamento (Robótica/Iot e infra-estrutura)
 	- BoxTV e SticksTV no EDGE computer como Servicos, Servidores e Clusters.
 	- Hackeando, Usando, Montando e Criando Perifericos Sensores e Atuadores.
