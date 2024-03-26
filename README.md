@@ -25,7 +25,7 @@ Abaixo a minha propostas de atividades conjunta na Bancada do Calango, e lembran
 	- Comunicação,  Trabalhando conceitos e pratica de comunicação com LightSPI e LightI2C
  		- Bases de Referência:
    			- https://hackaday.io/project/184720-web-smart-phone-screen-blink-bot/details
-      			- https://jamesnewton.github.io/webbot.html 
+      	 		- https://jamesnewton.github.io/webbot.html 
    
  - Reciclagem e Reaproveitamento (Robótica/Iot e infra-estrutura)
 	- BoxTV e SticksTV no EDGE computer como Servicos, Servidores e Clusters.
