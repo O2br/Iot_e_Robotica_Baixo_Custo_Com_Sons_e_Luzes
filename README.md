@@ -11,20 +11,21 @@ Abaixo a minha propostas de atividades conjunta na Bancada do Calango, e lembran
 	- Ligar Leds, Trabalhando conceitos e pratica de SoundsGPIO Digital.
 	- Controlar um Motor GPIO Digital, Mais um pratica de SoundsGPIO Digital controlando uma ponte-h/transistor.	
 	- Osciloscopio, Trabalhar conceito e pratica de SoundsGPIO Analogico.
- 		- Bases de referência:
+ 		- referências:
    			- https://www.clubedohardware.com.br/forums/topic/1164637-oscilosc%C3%B3pio-caseiro/ 
       		        - https://hackaday.com/2021/09/01/measuring-led-flicker-with-phototransistor-and-audio-app/  		
  	- Controlar um Motor com PWM, Trabalhar conceito e pratica de sinal de onda quadrada.
-  		- Base de referência: https://makerfaire.com/maker/entry/55209/  
+  		- referência: https://makerfaire.com/maker/entry/55209/  
 	- Controle Remoto Transmissor e Receptor de IR, Trabalhando decodificação de audio para sinais Digitais.
 	- Receptor de Radio, mais um pratica de decodificação de audio para sinais Digitais.
    
  - Light Pins 
-	- Relé Programavel, Trabalhando conceitos e pratica de LightGPIO Digital 
+	- Relé Programavel, Trabalhando conceitos e pratica de LightGPIO Digital
+ 		- https://www.youtube.com/watch?v=-kL7M9GLZWE 
 	- Controlar um Motor 1, Mais uma pratica de LightGPIO Digital controlando um ponte-h.
- 		- Bases de referência: https://www.youtube.com/channel/UCjhBTm_LXP2QIRdvx35hEjw 
+ 		- https://www.youtube.com/channel/UCjhBTm_LXP2QIRdvx35hEjw 
 	- Comunicação,  Trabalhando conceitos e pratica de comunicação com LightSPI e LightI2C
- 		- Bases de Referência:
+ 		- Referências:
    			- https://hackaday.io/project/184720-web-smart-phone-screen-blink-bot/details 
       	 		- https://jamesnewton.github.io/webbot.html 
    
