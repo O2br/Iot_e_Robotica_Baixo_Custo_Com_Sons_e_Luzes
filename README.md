@@ -9,8 +9,7 @@ Abaixo a minha propostas de atividades conjunta na Bancada do Calango, e lembran
 ### Base GPIO Digital e Analógico
  - Sounds Pins
 	- Ligar Leds, Trabalhando conceitos e pratica de SoundsGPIO Digital.
-	- Controlar um Motor GPIO Digital, Mais um pratica de SoundsGPIO Digital controlando uma ponte-h/transistor.
- 		- Bases de referência: https://www.youtube.com/channel/UCjhBTm_LXP2QIRdvx35hEjw 	
+	- Controlar um Motor GPIO Digital, Mais um pratica de SoundsGPIO Digital controlando uma ponte-h/transistor.	
 	- Osciloscopio, Trabalhar conceito e pratica de SoundsGPIO Analogico.
  		- Bases de referência:
    			- https://www.clubedohardware.com.br/forums/topic/1164637-oscilosc%C3%B3pio-caseiro/ 
@@ -23,6 +22,7 @@ Abaixo a minha propostas de atividades conjunta na Bancada do Calango, e lembran
  - Light Pins 
 	- Relé Programavel, Trabalhando conceitos e pratica de LightGPIO Digital 
 	- Controlar um Motor 1, Mais uma pratica de LightGPIO Digital controlando um ponte-h.
+ 		- Bases de referência: https://www.youtube.com/channel/UCjhBTm_LXP2QIRdvx35hEjw 
 	- Comunicação,  Trabalhando conceitos e pratica de comunicação com LightSPI e LightI2C
  		- Bases de Referência:
    			- https://hackaday.io/project/184720-web-smart-phone-screen-blink-bot/details 
