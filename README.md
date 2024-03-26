@@ -34,6 +34,7 @@ Abaixo a minha propostas de atividades conjunta na Bancada do Calango, e lembran
 	- Hackeando, Usando, Montando e Criando Perifericos Sensores e Atuadores.
 		- Make Makey com teclado velho
 		- Mouse sensor de localização.
+  			- https://www.hackster.io/news/turning-an-old-mouse-into-a-custom-measurement-device-6a466a8ab5fc 
 ### Programação
  - Criando extenções para o Scratch do MIT, pratica de programação(Javascript, Python e outras) para facilitar a entrada de  usuários na Robotica/Iot.
 ### Oficina de Solda
