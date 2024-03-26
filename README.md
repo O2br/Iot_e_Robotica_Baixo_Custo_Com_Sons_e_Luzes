@@ -34,6 +34,7 @@ Abaixo a minha propostas de atividades conjunta na Bancada do Calango, e lembran
 	- BoxTV e SticksTV no EDGE computer como Servicos, Servidores e Clusters.
 	- Hackeando, Usando, Montando e Criando Perifericos Sensores e Atuadores.
 		- Make Makey com teclado velho
+			- https://www.instructables.com/QWERTY-transforming-a-keyboard-into-a-MakeyMakey/
 		- Mouse sensor de localização.
   			- https://www.hackster.io/news/turning-an-old-mouse-into-a-custom-measurement-device-6a466a8ab5fc 
 ### Programação
