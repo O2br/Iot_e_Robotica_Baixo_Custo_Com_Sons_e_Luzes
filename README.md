@@ -19,7 +19,9 @@ Abaixo a minha propostas de atividades conjunta na Bancada do Calango, e lembran
   		- https://makerfaire.com/maker/entry/55209/  
 	- Controle Remoto Transmissor e Receptor de IR, Trabalhando decodificação de audio para sinais Digitais.
  		- https://github.com/xiaolaba/IR-remote-control-code/tree/master/audio-jack-IR-remote/generator
-   		- https://irplus-remote.github.io/#audio ( https://www.youtube.com/watch?v=cD2c2DhlvuQ ) 
+   		- https://irplus-remote.github.io/#audio ( https://www.youtube.com/watch?v=cD2c2DhlvuQ )
+     		- https://www.instructables.com/IRToWebThingy-IR-Remote-to-WiFi-Adapter-With-ESP82/
+       		- https://www.instructables.com/Custom-Android-to-IR-Remote-Control-No-Android-Pro/ 
 	- Receptor de Radio, mais um pratica de decodificação de audio para sinais Digitais.
    
  - Light Pins 
