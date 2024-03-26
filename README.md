@@ -13,7 +13,8 @@ Abaixo a minha propostas de atividades conjunta na Bancada do Calango, e lembran
 	- Osciloscopio, Trabalhar conceito e pratica de SoundsGPIO Analogico.
  		- referências:
    			- https://www.clubedohardware.com.br/forums/topic/1164637-oscilosc%C3%B3pio-caseiro/ 
-      		        - https://hackaday.com/2021/09/01/measuring-led-flicker-with-phototransistor-and-audio-app/  		
+      		        - https://hackaday.com/2021/09/01/measuring-led-flicker-with-phototransistor-and-audio-app/
+        		- https://hackaday.com/2016/11/17/instrument-apps-on-your-phone-the-christmas-cracker-novelties-of-the-test-bench/ 		
  	- Controlar um Motor com PWM, Trabalhar conceito e pratica de sinal de onda quadrada.
   		- https://makerfaire.com/maker/entry/55209/  
 	- Controle Remoto Transmissor e Receptor de IR, Trabalhando decodificação de audio para sinais Digitais.
