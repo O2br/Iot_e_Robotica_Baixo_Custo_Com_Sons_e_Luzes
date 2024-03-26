@@ -12,7 +12,7 @@ Abaixo a minha propostas de atividades conjunta na Bancada do Calango, e lembran
 	- Controlar um Motor GPIO Digital, Mais um pratica de SoundsGPIO Digital controlando uma ponte-h/transistor.	
 	- Osciloscopio, Trabalhar conceito e pratica de SoundsGPIO Analogico.
  		- Bases de referência:
-   			- https://www.clubedohardware.com.br/forums/topic/1164637-oscilosc%C3%B3pio-caseiro/
+   			- https://www.clubedohardware.com.br/forums/topic/1164637-oscilosc%C3%B3pio-caseiro/ 
       		        - https://hackaday.com/2021/09/01/measuring-led-flicker-with-phototransistor-and-audio-app/  		
  	- Controlar um Motor com PWM, Trabalhar conceito e pratica de sinal de onda quadrada.
   		- Base de referência: https://makerfaire.com/maker/entry/55209/  
@@ -24,7 +24,7 @@ Abaixo a minha propostas de atividades conjunta na Bancada do Calango, e lembran
 	- Controlar um Motor 1, Mais uma pratica de LightGPIO Digital controlando um ponte-h.
 	- Comunicação,  Trabalhando conceitos e pratica de comunicação com LightSPI e LightI2C
  		- Bases de Referência:
-   			- https://hackaday.io/project/184720-web-smart-phone-screen-blink-bot/details
+   			- https://hackaday.io/project/184720-web-smart-phone-screen-blink-bot/details 
       	 		- https://jamesnewton.github.io/webbot.html 
    
  - Reciclagem e Reaproveitamento (Robótica/Iot e infra-estrutura)
