@@ -23,6 +23,7 @@ Abaixo a minha propostas de atividades conjunta na Bancada do Calango, e lembran
      		- https://www.instructables.com/IRToWebThingy-IR-Remote-to-WiFi-Adapter-With-ESP82/
        		- https://www.instructables.com/Custom-Android-to-IR-Remote-Control-No-Android-Pro/
          	- https://gitlab.com/divested-mobile/irremote
+          	- https://swf.com.tw/en/create-a-lego-ir-remote-transmitter-with-headphone-jack-for-sony-nex-5/
 	- Receptor de Radio, mais um pratica de decodificação de audio para sinais Digitais.
    
  - Light Pins 
